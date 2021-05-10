@@ -1,0 +1,17 @@
+C:\Users\Victor\source\repos\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.deps.json
+C:\Users\Victor\source\repos\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+C:\Users\Victor\source\repos\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
+C:\Users\Victor\source\repos\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.AssemblyInfo.cs
+C:\Users\Victor\source\repos\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+C:\Users\Victor\source\repos\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.deps.json
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.csproj.CoreCompileInputs.cache
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.AssemblyInfoInputs.cache
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.AssemblyInfo.cs
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.csprojAssemblyReference.cache

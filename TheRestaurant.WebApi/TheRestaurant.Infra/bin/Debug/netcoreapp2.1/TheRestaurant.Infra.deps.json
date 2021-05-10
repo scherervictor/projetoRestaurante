@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "488b8b05e9155eb48c21ca759cf8b36c94a66a2f"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TheRestaurant.Infra/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.78",
+          "MySqlConnector": "1.3.2",
+          "TheRestaurant.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TheRestaurant.Infra.dll": {}
+        }
+      },
+      "Dapper/2.0.78": {
+        "dependencies": {
+          "System.Reflection.Emit.Lightweight": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.78.45418"
+          }
+        }
+      },
+      "MySqlConnector/1.3.2": {
+        "runtime": {
+          "lib/netcoreapp2.1/MySqlConnector.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.3.2.0"
+          }
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.7.0": {},
+      "TheRestaurant.Domain/1.0.0": {
+        "runtime": {
+          "TheRestaurant.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheRestaurant.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.78": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vLPwL2HZXp/DN17Eu7sg6GMEj02alq7jcy6atn5Gv8i96b9Hu1UoxlCrhInUPfSFLQQiD8O7pdWAE1fdUEO/1Q==",
+      "path": "dapper/2.0.78",
+      "hashPath": "dapper.2.0.78.nupkg.sha512"
+    },
+    "MySqlConnector/1.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yz5MDctGTTS8OeFdmdChG8n4bu93L2m/UH9JYkQaB7ibwBdP7jKEbf5YZkCOoH2AcZwkyga0jy1zDE9XyqE+Iw==",
+      "path": "mysqlconnector/1.3.2",
+      "hashPath": "mysqlconnector.1.3.2.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "path": "system.reflection.emit.lightweight/4.7.0",
+      "hashPath": "system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    },
+    "TheRestaurant.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

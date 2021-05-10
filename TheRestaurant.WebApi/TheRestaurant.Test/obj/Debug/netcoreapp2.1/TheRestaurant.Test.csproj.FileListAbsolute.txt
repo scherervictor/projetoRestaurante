@@ -1,0 +1,17 @@
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\TheRestaurant.Test.deps.json
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\TheRestaurant.Test.runtimeconfig.json
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\TheRestaurant.Test.runtimeconfig.dev.json
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\TheRestaurant.Test.dll
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\TheRestaurant.Test.pdb
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\obj\Debug\netcoreapp2.1\TheRestaurant.Test.csprojAssemblyReference.cache
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\obj\Debug\netcoreapp2.1\TheRestaurant.Test.csproj.CoreCompileInputs.cache
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\obj\Debug\netcoreapp2.1\TheRestaurant.Test.AssemblyInfoInputs.cache
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\obj\Debug\netcoreapp2.1\TheRestaurant.Test.AssemblyInfo.cs
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\obj\Debug\netcoreapp2.1\TheRestaurant.Test.csproj.CopyComplete
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\obj\Debug\netcoreapp2.1\TheRestaurant.Test.dll
+E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Test\obj\Debug\netcoreapp2.1\TheRestaurant.Test.pdb
