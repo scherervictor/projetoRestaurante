@@ -22,3 +22,15 @@ E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.csproj.CopyComplete
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.dll
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.pdb
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\bin\Debug\netcoreapp2.1\TheRestaurant.Application.deps.json
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\bin\Debug\netcoreapp2.1\TheRestaurant.Application.dll
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\bin\Debug\netcoreapp2.1\TheRestaurant.Application.pdb
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.csprojAssemblyReference.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.AssemblyInfoInputs.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.AssemblyInfo.cs
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.csproj.CoreCompileInputs.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.csproj.CopyComplete
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.dll
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Application\obj\Debug\netcoreapp2.1\TheRestaurant.Application.pdb

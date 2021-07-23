@@ -22,3 +22,15 @@ E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.csproj.CopyComplete
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.dll
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.pdb
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\bin\Debug\netcoreapp2.1\TheRestaurant.Infra.deps.json
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\bin\Debug\netcoreapp2.1\TheRestaurant.Infra.dll
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\bin\Debug\netcoreapp2.1\TheRestaurant.Infra.pdb
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.csprojAssemblyReference.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.AssemblyInfoInputs.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.AssemblyInfo.cs
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.csproj.CoreCompileInputs.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.csproj.CopyComplete
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.dll
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Infra\obj\Debug\netcoreapp2.1\TheRestaurant.Infra.pdb

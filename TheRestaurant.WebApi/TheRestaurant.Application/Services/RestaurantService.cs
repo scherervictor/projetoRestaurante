@@ -67,6 +67,8 @@ namespace TheRestaurant.Application.Services
                 return result;
             }
 
+            var teste = 1;
+
             var professional = new Professional(voteDto.ProfessionalId.Value);
             if (!_professionalRepository.ProfessionalExists(professional))
             {
