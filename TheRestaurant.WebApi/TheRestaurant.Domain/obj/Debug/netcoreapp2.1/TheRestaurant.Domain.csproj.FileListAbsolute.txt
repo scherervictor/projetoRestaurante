@@ -15,3 +15,12 @@ E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debu
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
 E:\develop\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.csprojAssemblyReference.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.deps.json
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\bin\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.csprojAssemblyReference.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.AssemblyInfoInputs.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.AssemblyInfo.cs
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.csproj.CoreCompileInputs.cache
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.dll
+C:\Personal\crudProdutos\projetoRestaurante\TheRestaurant.WebApi\TheRestaurant.Domain\obj\Debug\netcoreapp2.1\TheRestaurant.Domain.pdb
