@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.WebApi\\TheRestaurant.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Application\\TheRestaurant.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Application\\TheRestaurant.Application.csproj",
+        "projectName": "TheRestaurant.Application",
+        "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Application\\TheRestaurant.Application.csproj",
+        "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj": {
+                "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj",
+        "projectName": "TheRestaurant.Domain",
+        "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj",
+        "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Infra\\TheRestaurant.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Infra\\TheRestaurant.Infra.csproj",
+        "projectName": "TheRestaurant.Infra",
+        "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Infra\\TheRestaurant.Infra.csproj",
+        "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj": {
+                "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.WebApi\\TheRestaurant.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.WebApi\\TheRestaurant.WebApi.csproj",
+        "projectName": "TheRestaurant.WebApi",
+        "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.WebApi\\TheRestaurant.WebApi.csproj",
+        "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Application\\TheRestaurant.Application.csproj": {
+                "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Application\\TheRestaurant.Application.csproj"
+              },
+              "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Infra\\TheRestaurant.Infra.csproj": {
+                "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Infra\\TheRestaurant.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.4.10, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

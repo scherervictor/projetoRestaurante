@@ -88,6 +88,8 @@ namespace TheRestaurant.Application.Services
                 return result;
             }
 
+            var teste2 = "qualquercoisa";
+
             _restaurantRepository.VoteRestaurant(vote);
 
             return result;

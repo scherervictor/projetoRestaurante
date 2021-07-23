@@ -5835,23 +5835,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victor\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\develop\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Test\\TheRestaurant.Test.csproj",
+      "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Test\\TheRestaurant.Test.csproj",
       "projectName": "TheRestaurant.Test",
-      "projectPath": "E:\\develop\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Test\\TheRestaurant.Test.csproj",
-      "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "E:\\develop\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Test\\obj\\",
+      "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Test\\TheRestaurant.Test.csproj",
+      "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
+      "outputPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Test\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5863,9 +5859,10 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "E:\\develop\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj": {
-              "projectPath": "E:\\develop\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj"
+            "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj": {
+              "projectPath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Domain\\TheRestaurant.Domain.csproj"
             }
           }
         }
@@ -5878,6 +5875,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -5892,16 +5890,23 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

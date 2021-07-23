@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9nalJFXMkQglFeGuoVcTEBKzbmL8EMos2CsPT2BZ+9W8r6+p74mAokrpkd1p0Q4BJETcYU+sXmzcih+EeMZLTg==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\crudProdutos\\projetoRestaurante\\TheRestaurant.WebApi\\TheRestaurant.Application\\TheRestaurant.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
